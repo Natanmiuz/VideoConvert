@@ -1,0 +1,7 @@
+venv/
+env/
+.venv/
+.env/
+videos/
+__pycache__/
+.vscode/
