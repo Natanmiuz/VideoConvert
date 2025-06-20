@@ -7,13 +7,11 @@
 - Interfaz gráfica amigable y moderna.
 - Soporte para múltiples formatos: MP4, AVI, MOV, MKV.
 - Conversión rápida y eficiente con FFmpeg.
-- Registro de actividad en tiempo real.
-- Gestión de archivos inteligente.
 - Compatible con Windows.
 
 ## Código Abierto
 
-Este proyecto es **100% de código abierto**. Puedes usarlo, modificarlo y compartirlo libremente bajo la licencia MIT.
+Este proyecto es **100% de código abierto**. Puedes usarlo, modificarlo y compartirlo libremente.
 
 > Y si algún día nos ofrecen 100 millones de dólares por el proyecto...
 >
@@ -24,7 +22,7 @@ Este proyecto es **100% de código abierto**. Puedes usarlo, modificarlo y compa
 1. Clona el repositorio:
    ```sh
    git clone https://github.com/Natanmiuz/VideoConvert.git
-   cd convertidor-video
+   cd VideoConvert
    ```
 2. Instala las dependencias:
    ```sh
