@@ -141,7 +141,7 @@ class VideoConverterApp:
         file_path = filedialog.askopenfilename(
             title="Seleccionar video",
             filetypes=(
-                ("Archivos de video", "*.mp4 *.avi *.mov *.mkv *.webm *.flv")
+                ("Archivos de video", "*.mp4 *.avi *.mov *.mkv *.webm *.flv"),
             )
         )
         
